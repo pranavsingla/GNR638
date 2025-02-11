@@ -1,0 +1,64 @@
+['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20']
+Getting paths and labels for all train, val and test data
+Evaluating with vocabulary size: 100
+Extract SIFT features
+Compute vocab
+It takes  13.747507333755493  to compute vocab.
+Construct bags of sifts...
+It takes  70.87741947174072  to construct bags of sifts.
+Construct bags of sifts...
+It takes  9.913823127746582  to construct bags of sifts.
+Evaluating with vocabulary size: 200
+Extract SIFT features
+Compute vocab
+It takes  22.25192093849182  to compute vocab.
+Construct bags of sifts...
+It takes  89.99575757980347  to construct bags of sifts.
+Construct bags of sifts...
+It takes  12.683397054672241  to construct bags of sifts.
+Evaluating with vocabulary size: 400
+Extract SIFT features
+Compute vocab
+It takes  45.67061948776245  to compute vocab.
+Construct bags of sifts...
+It takes  129.11523056030273  to construct bags of sifts.
+Construct bags of sifts...
+It takes  18.565518140792847  to construct bags of sifts.
+Evaluating with vocabulary size: 800
+Extract SIFT features
+Compute vocab
+It takes  76.27349281311035  to compute vocab.
+Construct bags of sifts...
+It takes  206.88085341453552  to construct bags of sifts.
+Construct bags of sifts...
+It takes  29.249936819076538  to construct bags of sifts.
+Going ahead with 800 codewords
+Extract SIFT features
+Compute vocab
+It takes  85.56947827339172  to compute vocab.
+Construct bags of sifts...
+It takes  58.38035559654236  to construct bags of sifts.
+Accuracy: 0.08571428571428572
+0: 0.0
+1: 0.0
+2: 0.0
+3: 0.0
+4: 0.45
+5: 0.0
+6: 0.1
+7: 0.0
+8: 0.0
+9: 0.0
+10: 0.35
+11: 0.2
+12: 0.25
+13: 0.0
+14: 0.0
+15: 0.1
+16: 0.0
+17: 0.1
+18: 0.0
+19: 0.1
+20: 0.15
+plotting
+Running t-SNE on 10000 descriptors...

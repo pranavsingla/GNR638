@@ -1,0 +1,10 @@
+['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20']
+Getting paths and labels for all train, val and test data
+Evaluating with vocabulary size: 100
+Extract SIFT features
+Compute vocab
+It takes  11.590861797332764  to compute vocab.
+Construct bags of sifts...
+It takes  70.66627526283264  to construct bags of sifts.
+Construct bags of sifts...
+It takes  9.979175329208374  to construct bags of sifts.
